@@ -20,7 +20,7 @@
 }
 .cover {
 	background-image: url('img/bg.jpeg');
-	height: 180%;
+	height: 190%;
 	margin-bottom: 10%;
 }
 
@@ -31,15 +31,15 @@
 }
 .images_1{
     height: 50%;
-    width: 25%;
+    width: 30%;
 }
 .images_2{
     height: 25%;
-    width: 25%;
+    width: 30%;
 }
 .images_3{
-    height: 15%;
-    width: 27%;
+    height: 14%;
+    width: 30%;
 }
 .images_4{
     height: 30%;
@@ -51,4 +51,7 @@
 }
 .name{
     color: firebrick;
+}
+.t2{
+    color: red;
 }
