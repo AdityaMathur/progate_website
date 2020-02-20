@@ -20,7 +20,7 @@
 }
 .cover {
 	background-image: url('img/bg.jpeg');
-	height: 190%;
+	height: 350%;
 	margin-bottom: 10%;
 }
 
@@ -54,4 +54,7 @@
 }
 .t2{
     color: red;
+}
+.tit{
+    margin-top: -60px;
 }
